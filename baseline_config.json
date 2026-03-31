@@ -1,0 +1,39 @@
+{
+  "model_name": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "temperature": 0.0,
+  "max_new_tokens": 100,
+  "seed": 42,
+  "locales": {
+    "ga-IE": {
+      "code": "ga-IE",
+      "name": "Irish (Ireland)",
+      "language": "Irish Gaelic",
+      "script": "Latin",
+      "resource_level": "low"
+    },
+    "en-US": {
+      "code": "en-US",
+      "name": "English (United States)",
+      "language": "English",
+      "script": "Latin",
+      "resource_level": "high"
+    },
+    "ar-SA": {
+      "code": "ar-SA",
+      "name": "Arabic (Saudi Arabia)",
+      "language": "Arabic",
+      "script": "Arabic",
+      "resource_level": "medium"
+    },
+    "zh-CN": {
+      "code": "zh-CN",
+      "name": "Chinese (China)",
+      "language": "Simplified Chinese",
+      "script": "Han",
+      "resource_level": "high"
+    }
+  },
+  "normalization_form": "NFC",
+  "pytorch_version": "2.10.0",
+  "cuda_available": false
+}
