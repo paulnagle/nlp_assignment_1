@@ -1,3 +1,9 @@
+# Natural Language Processing –
+
+# NLP Project 1 (50%) — Cross-Cultural Knowledge
+
+# Evaluation (BLEnD / SemEval-Style)
+
 ## Module: Natural	Language	Processing	
 
 ### Weight: 50%	of	overall	module	mark
@@ -37,11 +43,7 @@ Evaluation:
 An answer is correct if it matches any human-annotated reference after appropriate
 normalisation.
 ```
-# Natural Language Processing –
 
-# NLP Project 1 (50%) — Cross-Cultural Knowledge
-
-# Evaluation (BLEnD / SemEval-Style)
 
 
 You must:

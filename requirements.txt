@@ -1,0 +1,21 @@
+# NLP Assignment 1 - Cross-Cultural Knowledge Evaluation
+# Python 3.8+ required
+
+# Core ML/NLP libraries
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+bitsandbytes>=0.41.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Jupyter notebook support (optional, for running .ipynb files)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional utilities
+tqdm>=4.65.0
