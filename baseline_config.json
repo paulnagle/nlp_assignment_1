@@ -4,13 +4,6 @@
   "max_new_tokens": 100,
   "seed": 42,
   "locales": {
-    "ga-IE": {
-      "code": "ga-IE",
-      "name": "Irish (Ireland)",
-      "language": "Irish Gaelic",
-      "script": "Latin",
-      "resource_level": "low"
-    },
     "en-US": {
       "code": "en-US",
       "name": "English (United States)",
@@ -18,12 +11,12 @@
       "script": "Latin",
       "resource_level": "high"
     },
-    "ar-SA": {
-      "code": "ar-SA",
-      "name": "Arabic (Saudi Arabia)",
-      "language": "Arabic",
-      "script": "Arabic",
-      "resource_level": "medium"
+    "en-GB": {
+      "code": "en-GB",
+      "name": "English (United Kingdom)",
+      "language": "English",
+      "script": "Latin",
+      "resource_level": "high"
     },
     "zh-CN": {
       "code": "zh-CN",
@@ -31,9 +24,16 @@
       "language": "Simplified Chinese",
       "script": "Han",
       "resource_level": "high"
+    },
+    "am-ET": {
+      "code": "am-ET",
+      "name": "Amharic (Ethiopia)",
+      "language": "Amharic",
+      "script": "Ethiopic",
+      "resource_level": "low"
     }
   },
   "normalization_form": "NFC",
-  "pytorch_version": "2.10.0",
+  "pytorch_version": "2.11.0",
   "cuda_available": false
 }
