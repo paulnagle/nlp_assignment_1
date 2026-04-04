@@ -1,5 +1,5 @@
 # NLP Assignment 1 - Cross-Cultural Knowledge Evaluation
-# Python 3.8+ required
+# Python 3.12 required
 
 # Core ML/NLP libraries
 torch>=2.0.0
