@@ -9,6 +9,9 @@ accelerate>=0.20.0
 sentencepiece>=0.1.99
 bitsandbytes>=0.41.0
 
+# Amharic language processing
+amharicNLP
+
 # Data processing
 pandas>=1.5.0
 numpy>=1.24.0
