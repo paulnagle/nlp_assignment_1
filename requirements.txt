@@ -9,6 +9,9 @@ accelerate>=0.20.0
 sentencepiece>=0.1.99
 bitsandbytes>=0.41.0
 
+# US and GB locale stemming/lemmatization
+nltk
+
 # Amharic language processing
 amharicNLP
 
