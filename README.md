@@ -1,28 +1,44 @@
 # NLP Assignment 1
 
-To install the necessaryl ibraries, run the following command in the project's root directory:
+The code and datasets for the assignment can all be found on github at https://github.com/paulnagle/nlp_assignment_1
+
+To run the notebook python 3.12.12 is recommended as that is what colab is currently using.
+
+## Local Installation
+
+First clone the repository:
+```
+git clone https://github.com/paulnagle/nlp_assignment_1.git
+```
+
+To install the necessary libraries, run the following command in the project's root directory:
 
 ```
+cd nlp_assignment_1
 pip install -r requirements.txt
 ```
 
-python 3.12.12 is recommended as that is what colab is currently using.
+Run the notebook locally as you would normally do in Jupyter.
 
-The datasets are included in the data folder, and have been repurposed form the BLEnD dataset at https://github.com/nlee0212/BLEnD
+## Colab Installation
 
-The code should run in colab or any python environment. If you are running colab you will need to copy the dattaset into your google drive so that they can be accessed by the notebook. 
+The datasets are included in the data folder in the github repo, and have been repurposed rom the BLEnD dataset at https://github.com/nlee0212/BLEnD
 
-Mount the datasets to 
-`
-/content/drive/MyDrive/Colab Notebooks/nlp_assignment_1/data
-`
+To run in colab you will need to copy the dataset into your google drive so that they can be accessed by the notebook. 
 
-Mount the requirements.txt to 
-`
-/content/drive/MyDrive/Colab Notebooks/nlp_assignment_1/requirements.txt
-`
+Copy the datasets to Google Drive
+```
+Colab Notebooks/nlp_assignment_1/data
+```
 
+COpy the requirements.txt to 
+```
+Colab Notebooks/nlp_assignment_1/requirements.txt
+```
 
+Copy the notebook to 
+```
+nlp_assignment_1/nlp_assignment_1.ipynb
+```
 
-
-
+In google drive you can right click on the noteboopk, and choose "Run in colab"
